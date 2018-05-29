@@ -12,6 +12,7 @@
 		773A7B0120B2D1D900B5DE40 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 773A7AFF20B2D1D900B5DE40 /* Main.storyboard */; };
 		773A7B0320B2D1D900B5DE40 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 773A7B0220B2D1D900B5DE40 /* Assets.xcassets */; };
 		773A7B0620B2D1D900B5DE40 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 773A7B0420B2D1D900B5DE40 /* LaunchScreen.storyboard */; };
+		773A7B0E20B3F69E00B5DE40 /* SecondVeiwController .swift in Sources */ = {isa = PBXBuildFile; fileRef = 773A7B0D20B3F69E00B5DE40 /* SecondVeiwController .swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		773A7B0220B2D1D900B5DE40 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		773A7B0520B2D1D900B5DE40 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		773A7B0720B2D1D900B5DE40 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		773A7B0D20B3F69E00B5DE40 /* SecondVeiwController .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SecondVeiwController .swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				773A7AFB20B2D1D900B5DE40 /* AppDelegate.swift */,
 				773A7AFD20B2D1D900B5DE40 /* ViewController.swift */,
+				773A7B0D20B3F69E00B5DE40 /* SecondVeiwController .swift */,
 				773A7AFF20B2D1D900B5DE40 /* Main.storyboard */,
 				773A7B0220B2D1D900B5DE40 /* Assets.xcassets */,
 				773A7B0420B2D1D900B5DE40 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				773A7AFE20B2D1D900B5DE40 /* ViewController.swift in Sources */,
+				773A7B0E20B3F69E00B5DE40 /* SecondVeiwController .swift in Sources */,
 				773A7AFC20B2D1D900B5DE40 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
